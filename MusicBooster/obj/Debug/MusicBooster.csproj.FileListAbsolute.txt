@@ -1,0 +1,12 @@
+C:\Users\m1ksu\Downloads\MusicBooster\MusicBooster\bin\Debug\MusicBooster.dll
+C:\Users\m1ksu\Downloads\MusicBooster\MusicBooster\bin\Debug\MusicBooster.pdb
+C:\Users\m1ksu\Downloads\MusicBooster\MusicBooster\bin\Debug\0Harmony.dll
+C:\Users\m1ksu\Downloads\MusicBooster\MusicBooster\bin\Debug\Assembly-CSharp.dll
+C:\Users\m1ksu\Downloads\MusicBooster\MusicBooster\bin\Debug\BepInEx.dll
+C:\Users\m1ksu\Downloads\MusicBooster\MusicBooster\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\m1ksu\Downloads\MusicBooster\MusicBooster\bin\Debug\UnityEngine.dll
+C:\Users\m1ksu\Downloads\MusicBooster\MusicBooster\obj\Debug\MusicBooster.csproj.AssemblyReference.cache
+C:\Users\m1ksu\Downloads\MusicBooster\MusicBooster\obj\Debug\MusicBooster.csproj.CoreCompileInputs.cache
+C:\Users\m1ksu\Downloads\MusicBooster\MusicBooster\obj\Debug\MusicBooster.csproj.CopyComplete
+C:\Users\m1ksu\Downloads\MusicBooster\MusicBooster\obj\Debug\MusicBooster.dll
+C:\Users\m1ksu\Downloads\MusicBooster\MusicBooster\obj\Debug\MusicBooster.pdb
