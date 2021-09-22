@@ -7,4 +7,8 @@ Prepare thy ears, if you use this. Hearing damage is not a joke. I wouldn't go a
 
 #Installation
 
-Install BepInEx by following (https://www.youtube.com/watch?v=meNiXcbPh_s)[this tutorial]. The go to the releases tab and download the .dll file. Place the .dll file into <Your Ultrakill Directory>/BepInEx/plugins. That's all!
+1. Install BepInEx by following [https://www.youtube.com/watch?v=meNiXcbPh_s](this tutorial)
+2. Go to the releases tab and download the .dll file
+3. Place the .dll file into <Your Ultrakill Directory>/BepInEx/plugins.
+4. Lower your volume before you start the game. Just in case.
+5. That's all!
