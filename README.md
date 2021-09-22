@@ -5,7 +5,7 @@ Ultrakill's soundtrack is great, but even at max volume it gets quite drowned ou
 
 Prepare thy ears, if you use this. Hearing damage is not a joke. I wouldn't go above 90% music volume unless master volume is really low.
 
-#Installation
+## Installation
 
 1. Install BepInEx by following [https://www.youtube.com/watch?v=meNiXcbPh_s](this tutorial)
 2. Go to the releases tab and download the .dll file
